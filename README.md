@@ -7,6 +7,6 @@
 - Languages: French and English
 - 📫 How to reach me: arthur@afetiveau.com
 - 🔭 I’m currently working on [MakerRepo](https://github.com/uOttawa-Makerspace/MakerSpaceRepo)
-- :atom: Programming Languages: Ruby (Rails), Python (Flask, FastAPI, Django), some knowledge Java and JS (VueJS, React, AdonisJS)
+- :atom: Programming Languages: Ruby (Rails), Python (Flask, FastAPI, Django), some knowledge Java and JS (AngularJS, React, VueJS AdonisJS)
 - 🏫 Education: 2nd year student in a Bachelor of applied science in software engineering at the University of Ottawa
 - 🏢 Work: Full-Stack Developer at the Centre for Entrepreneurship and Engineering Design of the University of Ottawa
