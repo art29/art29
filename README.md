@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Programming, the Maker community, transit (🚌 🚅), aviation (✈️) and love ☕
 - 😄 Pronouns: He/Him
-- Age: 2️⃣0️⃣
+- Age: 2️⃣1️⃣
 - Nationalities: 🇨🇦 and 🇫🇷
 - Languages: French and English
 - 📫 How to reach me: arthur@afetiveau.com
